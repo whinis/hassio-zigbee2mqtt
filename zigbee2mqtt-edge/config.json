@@ -67,5 +67,5 @@
       "rtscts": "bool?"
     }
   },
-  "image": "koenkk/zigbee2mqtt"
+  "image": "zigbee2mqtt/zigbee2mqtt-edge-{arch}"
 }
